@@ -1,10 +1,10 @@
 ---
 book: Intrapartum Care
-title: Quiz 6. Managing pain during labour
+title: Test 6. Managing pain during labour
 layout: test
 ---
 
-# Quiz 6: Managing pain during labour
+# Test 6: Managing pain during labour
 
 Please choose the one most correct answer to each question or statement.
 

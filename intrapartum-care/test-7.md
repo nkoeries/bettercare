@@ -1,10 +1,10 @@
 ---
 book: Intrapartum Care
-title: Quiz 7. The puerperium
+title: Test 7. The puerperium
 layout: test
 ---
 
-# Quiz 7: The puerperium
+# Test 7: The puerperium
 
 Please choose the one most correct answer to each question or statement.
 

@@ -1,10 +1,10 @@
 ---
 book: Intrapartum Care
-title: Quiz 4. The second stage of labour
+title: Test 4. The second stage of labour
 layout: test
 ---
 
-# Quiz 4: The second stage of labour
+# Test 4: The second stage of labour
 
 Please choose the one most correct answer to each question or statement.
 

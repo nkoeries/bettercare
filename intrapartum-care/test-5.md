@@ -1,10 +1,10 @@
 ---
 book: Intrapartum Care
-title: Quiz 5. The third stage of labour
+title: Test 5. The third stage of labour
 layout: test
 ---
 
-# Quiz 5. The third stage of labour
+# Test 5. The third stage of labour
 
 Please choose the one most correct answer to each question or statement.
 

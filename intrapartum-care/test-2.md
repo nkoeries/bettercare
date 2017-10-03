@@ -1,10 +1,10 @@
 ---
 book: Intrapartum Care
-title: Quiz 2. Monitoring the condition of the fetus during the first stage of labour
+title: Test 2. Monitoring the condition of the fetus during the first stage of labour
 layout: test
 ---
 
-# Quiz 2: Monitoring the condition of the fetus during the first stage of labour
+# Test 2: Monitoring the condition of the fetus during the first stage of labour
 
 Please choose the one most correct answer to each question or statement.
 
