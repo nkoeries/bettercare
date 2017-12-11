@@ -62,11 +62,11 @@ Advocacy group aimed at moving the national dialogue to a patient-sensitive and 
 
 ## Breast Health Foundation (BHF)
 
-Contact: Rebecca Musi
+Contact: Louise Turner
 
-Tel: 011 428 9492 / 083 403 1011
+Tel:  011 482 9492 or 0860 283 343
 
-Email: [thebhf@mweb.co.za](mailto:thebhf@mweb.co.za) / [rebecca@mybreast.org.za](mailto:rebecca@mybreast.org.za)
+Email: [thebhf@mweb.co.za](mailto:thebhf@mweb.co.za) / [louise@mybreast.org.za](mailto:louise@mybreast.org.za)
 
 Website: [www.mybreast.org.za](http://www.mybreast.org.za)
 
@@ -100,17 +100,17 @@ Email: [wc@mybreast.org.za](mailto:wc@mybreast.org.za)
 
 ## Bosom Buddies (BB)
 
-Contact: Rebecca Musi
+Contact: Louise Turner
 
-Tel: 0860 283 343 / 083 403 1011
+Tel: 011 482 9492 or 0860 283 343
 
-Email: [rebecca@mybreast.org.za](mailto:rebecca@mybreast.org.za)
+Email: [louise@mybreast.org.za](mailto:louise@mybreast.org.za)
 
 Bosom buddies is a Gauteng support group that aims to redefine the perceptions of breast cancer and promote positive mind set of survival, recovery and quality of life. There are regional branches.
 
 ## Campaign for Cancer (C4C)
 
-Contact: Dot Webb
+Contact: Lauren Pretorius
 
 Tel: 0861 ASK NOW (0861 275 669) / 082 878 1348
 
